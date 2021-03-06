@@ -14,7 +14,10 @@ Luciano começou com esse termo lançando o documento intitulado _The Onlife Man
 
 Os pesquisadores entendem que as tecnologias da informação e comunicação além de ferramentas, também são mecanismos que estão afetando quem somos nós, a forma como nos socializamos, nossa concepção de realidade, e nossas interações com a realidade.
 
-### O que
+### O impacto das redes sociais
+
+* Repercussão de coisas da rede social para a vida real;
+* 
 
 
 
@@ -31,8 +34,7 @@ Os pesquisadores entendem que as tecnologias da informação e comunicação al�
 
 
 
-
-Fontes:
+**Fontes:**
 
 Luciano Floridi – Onlife - Being Human in a Hyperconnected Era - [https://www.youtube.com/watch?v=XhmTzqVx\_64](https://www.youtube.com/watch?v=XhmTzqVx_64)
 
