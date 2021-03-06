@@ -16,6 +16,8 @@ Outro contexto que foi extremamente beneficiado pelo advento das redes sociais f
 
 Contudo, é importante ressaltar que tais mobilizações, inclusive pelos mesmos motivos que as tornam tão poderosas, podem ser extremamente danosas e, em certos casos, errôneas. É cada vez mais comum ouvir o termo “cultura de cancelamento” em qualquer rede social, que poderia ser traduzida como “uma maneira de amplificar a voz de grupos oprimidos e forçar ações políticas de marcas ou figuras públicas”. Esse tipo de mobilização, apesar de já ter tido bons frutos, em diversos casos gerou consequências extremamente negativas na vida de pessoas que não necessariamente cometeram algum crime ou que não mereceriam uma segunda chance, por vezes causando a perda do emprego e destruindo a vida social desses indivíduos.
 
+![Tirinha de Will Tirando sobre cultura do cancelamento](../.gitbook/assets/cancelamento.jpg)
+
 **Fontes:**
 
 {% embed url="https://pt.wikipedia.org/wiki/Jornadas\_de\_Junho" %}
