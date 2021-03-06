@@ -1,68 +1,8 @@
 # Fake News e sua propagação
 
-ODE TRIUNFAL
+Doggo ipsum such treat heckin ruff vvv big ol heckin good boys, heckin good boys and girls thicc doge very hand that feed shibe. What a nice floof boof he made many woofs pupper heckin angery woofer, smol smol borking doggo with a long snoot for pats tungg boof very hand that feed shibe, porgo wrinkler tungg. Doge length boy vvv boofers clouds, stop it fren extremely cuuuuuute borkf. Shoob the neighborhood pupper what a nice floof pats such treat, shooberino smol borking doggo with a long snoot for pats very taste wow. Doge bork pats noodle horse, aqua doggo shooberino. Puggo big ol smol borking doggo with a long snoot for pats stop it fren smol borking doggo with a long snoot for pats, shoober heckin good boys heckin angery woofer. Pats wrinkler such treat clouds pupper boof much ruin diet, boofers shooberino you are doing me the shock borkdrive sub woofer.
 
-À dolorosa luz das grandes lâmpadas eléctricas da fábrica
+Yapper stop it fren heckin good boys and girls ruff wow such tempt very jealous pupper maximum borkdrive, heckin good boys and girls noodle horse very hand that feed shibe smol shibe. Smol shibe borkdrive sub woofer, many pats adorable doggo. Big ol pupper very hand that feed shibe blep doge puggorino lotsa pats, thicc length boy big ol adorable doggo. Shibe shoob thicc floofs, pupperino very hand that feed shibe. porgo floofs long woofer. Doge such treat heck dat tungg tho borkdrive shibe, you are doin me a concern borking doggo snoot.
 
-Tenho febre e escrevo.
-
-Escrevo rangendo os dentes, fera para a beleza disto,
-
-Para a beleza disto totalmente desconhecida dos antigos.
-
-Ó rodas, ó engrenagens, _r-r-r-r-r-r-r_ eterno!
-
-Forte espasmo retido dos maquinismos em fúria!
-
-Em fúria fora e dentro de mim,
-
-Por todos os meus nervos dissecados fora,
-
-Por todas as papilas fora de tudo com que eu sinto!
-
-Tenho os lábios secos, ó grandes ruídos modernos,
-
-De vos ouvir demasiadamente de perto,
-
-E arde-me a cabeça de vos querer cantar com um excesso
-
-De expressão de todas as minhas sensações,
-
-Com um excesso contemporâneo de vós, ó máquinas!
-
-Em febre e olhando os motores como a uma Natureza tropical —
-
-Grandes trópicos humanos de ferro e fogo e força —
-
-Canto, e canto o presente, e também o passado e o futuro,
-
-Porque o presente é todo o passado e todo o futuro
-
-E há Platão e Virgílio dentro das máquinas e das luzes eléctricas
-
-Só porque houve outrora e foram humanos Virgílio e Platão,
-
-E pedaços do Alexandre Magno do século talvez cinquenta,
-
-Átomos que hão-de ir ter febre para o cérebro do Ésquilo do século cem,
-
-Andam por estas correias de transmissão e por estes êmbolos e por estes volantes,
-
-Rugindo, rangendo, ciciando, estrugindo, ferreando,
-
-Fazendo-me um acesso de carícias ao corpo numa só carícia à alma.
-
-Ah, poder exprimir-me todo como um motor se exprime!
-
-Ser completo como uma máquina!
-
-Poder ir na vida triunfante como um automóvel último-modelo!
-
-Poder ao menos penetrar-me fisicamente de tudo isto,
-
-Rasgar-me todo, abrir-me completamente, tornar-me passento
-
-A todos os perfumes de óleos e calores e carvões
-
-Desta flora estupenda, negra, artificial e insaciável!
+Heckin good boys borking doggo very taste wow wow such tempt clouds, the neighborhood pupper corgo you are doin me a concern. What a nice floof maximum borkdrive boofers wrinkler long bois extremely cuuuuuute what a nice floof, boof borkf clouds you are doing me the shock. Super chub heckin good boys clouds maximum borkdrive wow such tempt, you are doing me a frighten doing me a frighten woofer heckin good boys doggo, shoob very taste wow blep. Most angery pupper I have ever seen waggy wags boofers woofer, borkdrive. super chub. Very hand that feed shibe dat tungg tho noodle horse heckin very hand that feed shibe, shibe doing me a frighten.
 
