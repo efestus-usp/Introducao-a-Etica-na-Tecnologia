@@ -2,5 +2,7 @@
 
 Repositório com o intuito de guardar conteúdo produzido pelo grupo efestus para o ensino e introdução da ética na tecnologia.
 
+efestus-chan
+
 bla bla bla
 
