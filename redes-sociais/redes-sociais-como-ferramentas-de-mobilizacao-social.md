@@ -2,5 +2,3 @@
 
 efestus-chan
 
-Kratos
-
