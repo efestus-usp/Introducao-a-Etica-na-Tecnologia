@@ -1,6 +1,10 @@
 # Redes sociais como ferramentas de mobilização social
 
+## Redes Sociais e mobilizações
+
 As Redes sociais têm se tornado cada vez mais um aspecto primordial da convivência nas sociedades contemporâneas. Sabendo disso, e considerando alguns aspectos presentes nessas redes, como o parcial anonimato oferecido nelas e a considerável liberdade para expressar diversas opiniões dentro das plataformas, as mesmas se tornaram bons espaços para mobilizações sociais de diversas causas diferentes.
+
+
 
 São incontáveis as situações recentes nas quais movimentos conseguiram organizar suas diversas demandas e realizar todo tipo de evento utilizando Facebook, Twitter e afins. Um exemplo notório dentro do próprio Brasil foi a série de protestos em decorrência ao aumento de 20 centavos na tarifa de ônibus em junho de 2013. Nesse caso, os protestos, inicialmente contando com alguns milhares de pessoas, a partir de chamados nas redes sociais, conseguiram superar o número de participantes das manifestações pelo impeachment do ex-presidente Fernando Collor de Mello, em 1992.
 
