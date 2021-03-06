@@ -14,7 +14,7 @@ O Manifesto afirma que as Tecnologias de Informação e Comunicação \(TICs\) n
 
 As incríveis tecnologias que inventamos, disse o professor, muitas vezes se desenvolvem mais rapidamente do que nossa capacidade de administrá-las, e os adultos não são melhores e talvez até menos preparados do que os jovens para a realidade da "vida onlife".
 
-### Redes sociais e o Onlife
+## Redes sociais e o Onlife
 
 O mais interessante é analisar como as redes sociais ajudam a perpetuar ainda mais o funcionamento do Onlife. Desde a forma os nossos perfis nessas redes acabam funcionando para fazer certas ações no mundo real, como procurar emprego, até a forma de como algo aparentemente pequeno postado na internet consegue atualmente repercurtir de uma maneira surpreendente no mundo offline. 
 
