@@ -1,16 +1,68 @@
 # Fake News e sua propagação
 
-sdasadas
+ODE TRIUNFAL
 
+À dolorosa luz das grandes lâmpadas eléctricas da fábrica
 
+Tenho febre e escrevo.
 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ex massa, semper quis lacinia eget, rutrum nec enim. Nullam turpis dui, euismod ac leo cursus, pellentesque dignissim est. In sodales cursus tincidunt. Suspendisse commodo id dolor facilisis varius. Vivamus sit amet euismod lacus. Nunc sollicitudin condimentum dapibus. Mauris sit amet egestas mauris. Nullam luctus purus a risus auctor, quis scelerisque tellus dignissim.
+Escrevo rangendo os dentes, fera para a beleza disto,
 
- Nullam auctor tellus ut ipsum sagittis, eget rhoncus enim pharetra. Nunc gravida gravida odio in sodales. Aliquam viverra mattis suscipit. Donec ut interdum ex. In ornare justo eget leo mattis, at hendrerit lectus pretium. Quisque scelerisque et metus vitae mattis. Curabitur ornare sodales augue, in mattis ex molestie eget. Suspendisse potenti. In bibendum consectetur nisl sit amet tristique. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus et lectus risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+Para a beleza disto totalmente desconhecida dos antigos.
 
- Ut accumsan tempus dapibus. Nam fermentum eros ut arcu pellentesque, sed tempor tortor vestibulum. Nulla facilisi. Sed iaculis nisl nec quam auctor, mollis suscipit metus viverra. Nulla convallis nibh urna, vitae egestas enim volutpat id. Ut tempus libero eu ex varius imperdiet. Integer commodo dolor in massa lobortis, eu pellentesque arcu iaculis. In hac habitasse platea dictumst. Aenean ac dui metus.
+Ó rodas, ó engrenagens, _r-r-r-r-r-r-r_ eterno!
 
- Aliquam in elit eu turpis pretium ultricies. Curabitur ornare massa vitae sodales imperdiet. Fusce eu fermentum sapien. Maecenas fermentum, ex nec molestie elementum, leo felis cursus augue, vel semper nulla orci eu dui. Suspendisse lacinia sit amet ligula sed commodo. Quisque tincidunt dolor vitae ligula efficitur mattis. Sed congue, purus at condimentum porttitor, lacus augue luctus tellus, sit amet varius est dolor nec tortor. Maecenas molestie pretium magna ut laoreet.
+Forte espasmo retido dos maquinismos em fúria!
 
- Duis metus nisi, efficitur a eros in, vehicula luctus lectus. Cras vitae mauris sed leo mattis lacinia. Quisque lobortis sem vel metus fringilla
+Em fúria fora e dentro de mim,
+
+Por todos os meus nervos dissecados fora,
+
+Por todas as papilas fora de tudo com que eu sinto!
+
+Tenho os lábios secos, ó grandes ruídos modernos,
+
+De vos ouvir demasiadamente de perto,
+
+E arde-me a cabeça de vos querer cantar com um excesso
+
+De expressão de todas as minhas sensações,
+
+Com um excesso contemporâneo de vós, ó máquinas!
+
+Em febre e olhando os motores como a uma Natureza tropical —
+
+Grandes trópicos humanos de ferro e fogo e força —
+
+Canto, e canto o presente, e também o passado e o futuro,
+
+Porque o presente é todo o passado e todo o futuro
+
+E há Platão e Virgílio dentro das máquinas e das luzes eléctricas
+
+Só porque houve outrora e foram humanos Virgílio e Platão,
+
+E pedaços do Alexandre Magno do século talvez cinquenta,
+
+Átomos que hão-de ir ter febre para o cérebro do Ésquilo do século cem,
+
+Andam por estas correias de transmissão e por estes êmbolos e por estes volantes,
+
+Rugindo, rangendo, ciciando, estrugindo, ferreando,
+
+Fazendo-me um acesso de carícias ao corpo numa só carícia à alma.
+
+Ah, poder exprimir-me todo como um motor se exprime!
+
+Ser completo como uma máquina!
+
+Poder ir na vida triunfante como um automóvel último-modelo!
+
+Poder ao menos penetrar-me fisicamente de tudo isto,
+
+Rasgar-me todo, abrir-me completamente, tornar-me passento
+
+A todos os perfumes de óleos e calores e carvões
+
+Desta flora estupenda, negra, artificial e insaciável!
 
