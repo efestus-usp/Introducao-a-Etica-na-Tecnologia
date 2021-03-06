@@ -38,3 +38,5 @@ FLORIDI, Luciano \(ed.\). _The Onlife Manifesto: being human in a hypeconnected 
 
 Ser humano e inteligência artificial: os próximos desafios do onlife. Entrevista com Luciano Floridi - [http://www.ihu.unisinos.br/78-noticias/604136-ser-humano-e-inteligencia-artificial-os-proximos-desafios-do-onlife-entrevista-com-luciano-floridi](http://www.ihu.unisinos.br/78-noticias/604136-ser-humano-e-inteligencia-artificial-os-proximos-desafios-do-onlife-entrevista-com-luciano-floridi)
 
+Americans Who Mainly Get Their News on Social Media Are Less Engaged, Less Knowledgeable - [https://www.journalism.org/2020/07/30/americans-who-mainly-get-their-news-on-social-media-are-less-engaged-less-knowledgeable/](https://www.journalism.org/2020/07/30/americans-who-mainly-get-their-news-on-social-media-are-less-engaged-less-knowledgeable/)
+
