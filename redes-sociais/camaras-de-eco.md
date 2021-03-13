@@ -1,3 +1,7 @@
+---
+description: Escrito por Matheus Victal Cerqueira.
+---
+
 # Câmaras de eco
 
 ## Som e isolamento
