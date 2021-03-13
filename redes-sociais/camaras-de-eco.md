@@ -52,21 +52,29 @@ Apenas esses dois simples mecanismos já são de extrema importância para facil
 
 #### O mecanismo e sua sutileza.
 
-A forma que essas plataformas operam é extremamente sutil e não é trivial detectar que podemos estar em uma câmara de eco, ou seja, isolado de outros tipos de ideias e pessoas que pensam de forma diferente. As pequenas ações são cumulativas: deixamos de seguir um amigo com visão política diferente da nossa, passamos a acompanhar meios de informação \(oficiais ou não\) que refletem nossas crenças, seguimos apenas os políticos que acreditamos ter uma certa visão de mundo e assim por diante, o algoritmo percebe que você tem menos engajaento com opiniões que não concorda e assim por diante. Essas pequenas interações podem levar ao isolamento do usuário em uma câmara de eco sem mesmo que ele perceba. Exatamente por ter-se uma falsa impressão que tudo que se está vendo no feed é o que há para se ver na rede inteira, é difícil percebermos que estamos isolados. Como sabemos que estamos presos se não conseguimos ver os muros ou ouvir as pessoas que estão do outro lado?
+A forma que essas plataformas operam é extremamente sutil e não é trivial detectar que podemos estar em uma câmara de eco, ou seja, isolado de outros tipos de ideias e pessoas que pensam de forma diferente. As pequenas ações são cumulativas: deixamos de seguir um amigo com visão política diferente da nossa, passamos a acompanhar meios de informação \(oficiais ou não\) que refletem nossas crenças, seguimos apenas os políticos que acreditamos ter uma certa visão de mundo e assim por diante, o algoritmo percebe que você tem menos engajaento com opiniões que não concorda e assim por diante. Essas pequenas interações podem levar ao isolamento do usuário em uma câmara de eco sem mesmo que ele perceba. Exatamente por ter-se uma falsa impressão que tudo que se está vendo no feed é o que há para se ver na rede inteira, é difícil percebermos que estamos isolados. Como sabemos que estamos presos se não conseguimos ver os muros ou ouvir as pessoas que estão do outro lado? A rede social passa a integrar um arquipélogo comunicativo no qual uma ilha não vê muito da outra, o que leva à consequências interessantes.
 
 ## Quais são as consequências desses arquipélagos comunicativos?
 
-#### Homogeneização ideológica.
+Vimos um pouco dos mecanismos responsáveis pela formação de câmaras de eco. Por ser um fenômeno extremamente complexo, muitos fatores o influenciam e compreender como ele funciona é uma constante junção de pequenas peças de conhecimento. Porém, quais são os efeitos gerados pela formação desses ambientes? Comentamos algumas consequências imediatas como o isolamento, mas muitas outras, diretas e indiretas, podem ser pontuadas.
 
-#### Polarização.
+#### Homogeneização ideológica e polarização.
+
+
 
 #### Propagação de desinformação.
+
+
 
 #### Consequências onlife.
 
 
 
+
+
 ## Um mundo não tão conectado.
+
+
 
 ## Fontes
 
