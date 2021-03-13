@@ -22,5 +22,17 @@ Este tipo de abordagem é extremamente perigosa para a liberdade de expressão, 
 
 Uma abordagem para prevenir a disseminação de noticias falsas que provavelmente funcionaria melhor e traria menos desvantagem é a chamada "abordagem agnóstica". Tal forma implica em focar não no conteúdo das mensagens, mas sim em comportamentos considerados abusivos, manipulativos, ou que de certa forma cerceiem o acesso a informação política para outros usuários.
 
-Esse tipo de abordagem já é aplicada pelas próprias plataformas e redes sociais. Um exemplo disso é a retirada de diversas contas que apresentam conteúdo de "spam" diariamente, o que é considerado uma infração do código de uso dessas redes. Outro caso mais específico foi, em julho de 2020, a desativação de diversas contas de um aplicativo de mensagens ligados ao partido dos trabalhadores por "uso indevido", e ao mesmo tempo a desativação de uma rede de perfis ligadas a família do Presidente da República no Facebook. Perfis que são considerados "bots" ou contas autônomas cuja única função seria disseminar notícias falsas de forma massiva são ambos exemplos de uso indevido das redes, visando afetar o debate público. 
+Esse tipo de abordagem já é aplicada pelas próprias plataformas e redes sociais. Um exemplo disso é a retirada de diversas contas que apresentam conteúdo de "spam" diariamente, o que é considerado uma infração do código de uso dessas redes. Outro caso mais específico foi, em julho de 2020, a desativação de diversas contas de um aplicativo de mensagens ligados ao partido dos trabalhadores por "uso indevido", e ao mesmo tempo a desativação de uma rede de perfis ligadas a família do Presidente da República no Facebook. Perfis que são considerados "bots" ou contas autônomas cuja única função seria disseminar notícias falsas de forma massiva são ambos exemplos de uso indevido das redes, visando afetar o debate público.
+
+Parágrafo final
+
+#### Fontes:
+
+#### Estratégias de proteção do debate democrático na internet - InternetLab: [https://www.internetlab.org.br/pt/informacao-e-politica/internetlab-lanca-recomendacoes-para-contribuir-com-o-debate-sobre-o-pl-das-fake-news/](https://www.internetlab.org.br/pt/informacao-e-politica/internetlab-lanca-recomendacoes-para-contribuir-com-o-debate-sobre-o-pl-das-fake-news/)
+
+#### Senado aprova projeto de lei das Fake News: [https://www.bbc.com/portuguese/brasil-53244947](https://www.bbc.com/portuguese/brasil-53244947)
+
+#### Whatsapp suspendeu contas do PT: [https://g1.globo.com/economia/tecnologia/noticia/2020/07/09/pt-diz-que-whatsapp-suspendeu-conta-de-distribuicao-de-mensagens-do-partido-sem-explicacoes.ghtml](https://g1.globo.com/economia/tecnologia/noticia/2020/07/09/pt-diz-que-whatsapp-suspendeu-conta-de-distribuicao-de-mensagens-do-partido-sem-explicacoes.ghtml)
+
+#### Facebook remove contas relacionadas a família Bolsonaro: [https://g1.globo.com/jornal-nacional/noticia/2020/07/08/facebook-remove-rede-de-contas-ligadas-a-gabinetes-da-familia-bolsonaro-e-ao-psl.ghtml](https://g1.globo.com/jornal-nacional/noticia/2020/07/08/facebook-remove-rede-de-contas-ligadas-a-gabinetes-da-familia-bolsonaro-e-ao-psl.ghtml)
 
