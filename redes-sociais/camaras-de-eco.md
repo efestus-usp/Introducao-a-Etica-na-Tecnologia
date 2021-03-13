@@ -60,11 +60,15 @@ Vimos um pouco dos mecanismos responsáveis pela formação de câmaras de eco. 
 
 #### Homogeneização ideológica e polarização.
 
-
+Estudos como os levados pelo Observatório e Mídas Sociais \(OSoMe na sigla em inglês\) da Universidade de Indiana mostram que em redes sociais existe a tendência à polarização em interações de conversa e uma baixa diversidade de notícias consumidas pelos usuários no geral. Isso se deve à dois fatores principais: a **segregação da rede** e a **polarização da opinião**, as quais estão conectadas e se retroalimentam. As câmaras de eco corroboram fortemente para a segregação da rede, ou seja, a quebra dela em redes menores com poucas conexões. Isso gera uma baixa diversidade de informações consumidas pelo usuário imerso nesse sistema e, devido à fatores humanos como a homofilia \(a tendência de formar laços com pessoas parecidas\) e a influência social \(a tendência a se tornar mais semelhante à uma pessoa como resultado de interações sociais\), ocorre uma tendência à firmação de ideias dominantes e homogêneas no espaço compreendito pela câmara. Esse fator leva à novas polarizações e novas segregações, diminuindo a diversidade de informações que um único usuário é exposto. Dessa forma, criam-se ambientes em que usuários se veem imersos em ideias muito parecidas com as suas e as quais tendem a se manifestar cada vez mais como opiniões polarizadas.
 
 #### Propagação de desinformação.
 
+Um efeito menos evidente das câmaras de eco é na influência que elas tem em amplificar a propagação de desinformação. Para entender como isso ocorre temos que nos considerar três fatores: a criação de ambientes extremamente polarizados e de opiniões extremamente homogêneas que as câmaras de eco geram, o viés de confirmação e a propagação de desinformação em uma rede.
 
+Um ambiente extremamente homogênio tende a agrupar pessoas que possuem visões de mundo semelhantes, como já discutimos no decorrer deste texto. Imaginemos então que uma pessoa tem acesso à uma informação ou notícia de cunho duvidoso e infundado. Se a informação concorda com suas crenças pode ocorrer da pessoa envolvida ter uma tendência à compartilhar aquela informação, mesmo que ela tenha traços de não ser verdadeira ou ser manipulada de alguma forma. O fenômeno do viés de confirmação mostra que não só isso é possível como pode ocorrer considerávelmente. Então essa pessoa compartilha em sua rede tal informação. Por sua vez, cada pessoa conectada à anterior é exposta ao conteúdo duvidoso. Como essas pessoas, por consideração inicial, estão em um ambiente fechado comunicativo e extremamente homogeneizado, há altas chances de ocorrer o mesmo processo que caracterizou o comportamento da primeira pessoa com as pessoas seguintes na rede. Dessa forma, rapidamente um rumor ou desinformação ganha proporções astronômicas em um ambiente caracterizado por uma câmara de eco, aumentando a probabilidade dessa informação atingir mais pessoas e aumentando a chance de ele ser compartilhado ainda mais. Perceba que claramente nem todos irão compartilhar a informação, mas o alcance dela será amplificado, podendo chegar à mais pessoas que possam ter simpatia por tal informação mesmo que ela não tenha fundamento.
+
+Assim sendo, ambientes criados poe câmaras de eco possuem topologia extremamente favorável à propagação de desinformação, culminando muitas vezes em fenômenos mais sérios como disseminação massiva de rumores e inverdades.
 
 #### Consequências onlife.
 
@@ -83,6 +87,7 @@ Conteúdo textual:
 * Artigo sobre aceleramento da formação de câmaras de eco em ambientes virtuais: Social Influence and Unfollowing Accelerate the Emergence of Echo Chambers - [https://link.springer.com/article/10.1007/s42001-020-00084-7](https://link.springer.com/article/10.1007/s42001-020-00084-7)
 * Definições gerais de câmaras de eco: [https://pt.wikipedia.org/wiki/C%C3%A2mara\_de\_eco](https://pt.wikipedia.org/wiki/C%C3%A2mara_de_eco)
 * Definições gerais de viés de confirmação: [https://pt.wikipedia.org/wiki/Vi%C3%A9s\_de\_confirma%C3%A7%C3%A3o](https://pt.wikipedia.org/wiki/Vi%C3%A9s_de_confirma%C3%A7%C3%A3o)
+* Site do OSoMe: [https://osome.iu.edu/highlights/](https://osome.iu.edu/highlights/)
 
 
 
