@@ -1,3 +1,7 @@
+---
+description: Escrito por Lucas Albano de Oliveira
+---
+
 # Fake news e sua propagação
 
 ## O que é _fake news_?
