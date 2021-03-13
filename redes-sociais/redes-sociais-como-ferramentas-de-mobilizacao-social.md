@@ -1,5 +1,5 @@
 ---
-description: 'Feito por: Afonso Henrique Piacentini Garcia'
+description: Escrito por Afonso Henrique Piacentini Garcia.
 ---
 
 # Redes sociais como ferramentas de mobilização social
