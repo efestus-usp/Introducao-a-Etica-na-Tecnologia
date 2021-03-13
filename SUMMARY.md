@@ -1,9 +1,6 @@
 # Table of contents
 
 * [Introdução à Etica na Tecnologia](README.md)
-* [Privacidade](privacidade/README.md)
-  * [Introdução](privacidade/material-vies.md)
-* [Viés Algorítmico](vies-algoritmico.md)
 * [Redes Sociais](redes-sociais/README.md)
   * [Mundo Onlife](redes-sociais/mundo-onlife.md)
   * [Câmaras de eco](redes-sociais/camaras-de-eco.md)
@@ -13,5 +10,9 @@
   * [Tecnologia como forma de resistência](tecnologia-e-politica/tecnologia-como-forma-de-resistencia.md)
   * [Tecno-Autoritarismo](tecnologia-e-politica/tecno-autoritarismo.md)
   * [Caso do Brasil: Desinformação e abordagem agnóstica](tecnologia-e-politica/caso-do-brasil-desinformacao-e-abordagem-agnostica.md)
-* [Untitled](untitled.md)
+* [Equidade algorítmica](untitled/README.md)
+  * [Viés algorítmico](untitled/vies-algoritmico.md)
+  * [p-hacking](untitled/p-hacking.md)
+  * [Critérios e métricas de eficiência](untitled/criterios-e-metricas-de-eficiencia.md)
+  * [Casos de estudo](untitled/casos-de-estudo.md)
 

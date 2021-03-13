@@ -1,0 +1,2 @@
+# Equidade algorítmica
+
