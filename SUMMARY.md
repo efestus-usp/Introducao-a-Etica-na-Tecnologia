@@ -7,6 +7,6 @@
 * [Redes Sociais](redes-sociais/README.md)
   * [Mundo Onlife](redes-sociais/mundo-onlife.md)
   * [Câmaras de eco](redes-sociais/camaras-de-eco.md)
-  * [Fake News e sua propagação](redes-sociais/fake-news-e-sua-propagacao.md)
+  * [Fake news e sua propagação](redes-sociais/fake-news-e-sua-propagacao.md)
   * [Redes sociais como ferramentas de mobilização social](redes-sociais/redes-sociais-como-ferramentas-de-mobilizacao-social.md)
 
