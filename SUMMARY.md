@@ -9,4 +9,9 @@
   * [Câmaras de eco](redes-sociais/camaras-de-eco.md)
   * [Fake news e sua propagação](redes-sociais/fake-news-e-sua-propagacao.md)
   * [Redes sociais como ferramentas de mobilização social](redes-sociais/redes-sociais-como-ferramentas-de-mobilizacao-social.md)
+* [Tecnologia e política](tecnologia-e-politica/README.md)
+  * [Tecnologia como forma de resistência](tecnologia-e-politica/tecnologia-como-forma-de-resistencia.md)
+  * [Tecno-Autoritarismo](tecnologia-e-politica/tecno-autoritarismo.md)
+  * [Caso do Brasil: Desinformação e abordagem agnóstica](tecnologia-e-politica/caso-do-brasil-desinformacao-e-abordagem-agnostica.md)
+* [Untitled](untitled.md)
 
