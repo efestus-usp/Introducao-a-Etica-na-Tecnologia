@@ -6,6 +6,8 @@ description: Escrito por Matheus Victal Cerqueira
 
 ## O que é Tecnoautoritarismo?
 
+
+
 ## Como ele pode se manifestar?
 
 ## Exemplos de como ele já se manifesta.
