@@ -14,3 +14,20 @@ Governos autoritários, corporações gananciosas ou qualquer outro tipo de pode
 
 Em primeiro de fevereiro de 2021 um golpe de estado militar ocorreu em Mianmar, repentinamente a presidente eleita democraticamente foi aprisionada e foi declarado estado de emergência por um ano, atualmente o controle está na mão das forças armadas, chamada de Tatmadaw. Logo após o ocorrido começaram a ser organizados os primeiros protestos organizados pelos habitantes. E como o Facebook é o principal meio de comunicação no país, metade dos 53 milhões de habitantes usa a plataforma, o governo passou uma diretiva a todas as empresas de telefonia móvel e provedores de internet para que o Facebook e serviços relacionados fossem bloqueados por questão de "estabilidade". 
 
+## Fontes
+
+[https://www.cnnbrasil.com.br/internacional/2021/02/04/golpe-em-mianmar-facebook-e-bloqueado-apos-ordem-governamental](https://www.cnnbrasil.com.br/internacional/2021/02/04/golpe-em-mianmar-facebook-e-bloqueado-apos-ordem-governamental)  
+  
+[https://www.bbc.com/portuguese/internacional-49338575](https://www.bbc.com/portuguese/internacional-49338575)  
+  
+[https://tecnoblog.net/349946/por-que-grandes-marcas-boicotam-anuncios-facebook/](https://tecnoblog.net/349946/por-que-grandes-marcas-boicotam-anuncios-facebook/)  
+  
+[https://www.adl.org/news/letters/an-open-letter-to-the-companies-that-advertise-on-facebook](https://www.adl.org/news/letters/an-open-letter-to-the-companies-that-advertise-on-facebook)  
+  
+[https://www.bbc.com/news/world-asia-55902070](https://www.bbc.com/news/world-asia-55902070)  
+  
+  
+  
+  
+
+
