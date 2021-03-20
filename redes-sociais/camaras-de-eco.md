@@ -76,13 +76,17 @@ Assim sendo, ambientes criados poe câmaras de eco possuem topologia extremament
 
 #### Consequências onlife.
 
+Como discutido anteriormente, muitas vezes as redes sociais passam a impressão que são como um tipo de mundo paralelo, ou seja, um plano separado do que chamamos de "vida real". Porém, conforme as redes têm feito cada vez mais parte de nossas vidas, é perceptível que esse tipo de visão perante elas não corresponde à realidade. A interseção do "eu" online com o "eu" offline passa a não fazer muito sentido. Nossas ações em ambientes virtuais passam a ter consequências reais no nosso cotidiano offline e nossas ações offline passam a ter consequências nos ambientes virtuais. Essa quebra de barreiras é evidênciada conforme vamos adentrando uma era hiperconectada da humanidade, na qual distâncias são reduzidas, conceitos homogeneizados, ideias podem cruzar continentes em instantes e a globalização lidera um processo de conectividade entre pessoas extremamente elevado. À esse contexto, no qual a diferenciação de nossa vida online e offline para de fazer sentido aos poucos, damos o nome de onlife, cunhado pelo professor e filósofo da era da informação da Universidade de Oxford Luciano Floridi.
 
+Tendo esse contexto em vista, é notório que fenômenos como as câmaras de eco podem ter repercussão no cotidiano offline, já que os dois ambientes compartilham da mesma infoesfera. Tais efeitos ainda não são muito bem compreendidos, já que o problema aqui discutido envolve várias variáveis diferentes e configura um sistema complexo. Mas alguns desses efeitos são perceptíveis. Como exemplo temos que se há intolerância e polarização nas redes sociais, há intolerância e polarização fora dela, já que os ambientes são compostos pelas mesmas pessoas. Muitas condutas extremamente polarizadas surgem nas redes sociais e se expandem para o cotidiano, afinal, estamos falando de dois ambientes do mesmo conjunto, a infoesfera. 
 
+A propagação em massa de fake news também tem grande efeito em nossa realidade, sendo que pode afetar eleições, percepção da sociedade perante a ciência, surgimento de teorias de conspiração e grupos extremistas, entre outros.
 
+A questão é: o que ocorre nas redes sociais faz parte da realidade e influencia nossas vidas fora dela e os efeitos das câmaras de eco fora das redes sociais não são exceção.
 
 ## Um mundo não tão conectado.
 
-
+Muitas vezes encaramos o processo de globalização e informatização como uma era de **conexão**. Porém, o ambiente que essa suposta conexão existe sem limites se encontra na forma da internet como ambiente e redes sociais como meio, e como sabemos, tais ambientes possuem tendências extremamente polarizadoras e a formação de arquipélogos comunicativos em meio à esse contexto é frequente. Muitas vezes podemos estar isolados de outros lados do debate, de outros pontos de vista, de outras ideias e formas de pensar, e de certa forma só percebermos quando saírmos na rua e vermos que existem pessoas que pensam diferente e tem opiniões diferentes, sendo que não basta uma ação para escondê-las de nossa visão e não mais as ouvirmos. Fenômenos como as câmaras de eco evidenciam que mjuitas vezes podemos estar **isolados**, separados das outras pessoas, sozinhos passando por um túnel e apenas ouvindo o que nós mesmos podemos produzir.
 
 ## Fontes
 
@@ -92,6 +96,7 @@ Conteúdo textual:
 * Definições gerais de câmaras de eco: [https://pt.wikipedia.org/wiki/C%C3%A2mara\_de\_eco](https://pt.wikipedia.org/wiki/C%C3%A2mara_de_eco)
 * Definições gerais de viés de confirmação: [https://pt.wikipedia.org/wiki/Vi%C3%A9s\_de\_confirma%C3%A7%C3%A3o](https://pt.wikipedia.org/wiki/Vi%C3%A9s_de_confirma%C3%A7%C3%A3o)
 * Site do OSoMe: [https://osome.iu.edu/highlights/](https://osome.iu.edu/highlights/)
+* Professor Luciano Floridi: [https://en.wikipedia.org/wiki/Luciano\_Floridi](https://en.wikipedia.org/wiki/Luciano_Floridi)
 
 
 

@@ -14,5 +14,4 @@
   * [Viés algorítmico](untitled/vies-algoritmico.md)
   * [Critérios e métricas de eficiência](untitled/criterios-e-metricas-de-eficiencia.md)
   * [p-hacking](untitled/p-hacking.md)
-  * [Casos de estudo](untitled/casos-de-estudo.md)
 
